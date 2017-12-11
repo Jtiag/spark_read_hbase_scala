@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jars">
+    <CLASSES>
+      <root url="file://E:/dependcelib/spark/jars" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/dependcelib/spark/jars" />
+    </SOURCES>
+    <jarDirectory url="file://E:/dependcelib/spark/jars" recursive="false" />
+    <jarDirectory url="file://E:/dependcelib/spark/jars" recursive="false" type="SOURCES" />
+  </library>
+</component>
